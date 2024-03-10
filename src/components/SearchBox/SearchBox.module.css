@@ -1,16 +1,13 @@
 .search {
-    display: flex;
-    flex-direction: column;
-    width: 320px;
-  }
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+}
 
-  .input {
-    padding: 10px;
-    border-radius: 5px;
-    border: 1px solid #858080a7;
-    width: 280px;
-  }
-
-  .label {
-    margin-bottom: 10px;
-  }
+.input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #858080a7;
+  width: 300px;
+  margin-top: 10px;
+}

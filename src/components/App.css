@@ -1,3 +1,9 @@
 #root {
-  padding: 20px;
-}
+    padding: 20px;
+  }
+
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
